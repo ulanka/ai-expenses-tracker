@@ -5,7 +5,7 @@
 
 **Effective date:** January 2026
 
-These Terms of Service (“Terms”) govern your use of the **Money Tracker** mobile application (the “App”), operated by **SureChoice Market** (“we”, “us”, “our”).
+These Terms of Service (“Terms”) govern your use of the **AI Expenses Tracker** mobile application (the “App”), operated by **Ulan Korabay** (“we”, “us”, “our”).
 
 By downloading, accessing, or using the App, you agree to these Terms.
 
@@ -15,7 +15,7 @@ If you do not agree, do not use the App.
 
 ## 1. The Service
 
-Money Tracker is a personal finance application that allows users to:
+AI Expenses Tracker is a personal finance application that allows users to:
 
 * Record expenses and income
 * Upload receipt photos
@@ -138,7 +138,7 @@ We do not guarantee:
 * Continuous availability
 * Error-free operation
 
-Money Tracker is not a bank, financial advisor, or accounting service.
+AI Expenses Tracker is not a bank, financial advisor, or accounting service.
 
 ---
 
@@ -176,5 +176,5 @@ These Terms are governed by the laws of the developer’s jurisdiction.
 
 For support or legal inquiries:
 
-**Email:** [support@surechoicemarket.com](mailto:support@surechoicemarket.com)
+**Email:** [tinges_0_tattles@icloud.com](mailto:tinges_0_tattles@icloud.com)
 
